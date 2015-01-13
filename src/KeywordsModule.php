@@ -19,4 +19,5 @@ class KeywordsModule extends Module
      * @var string
      */
     protected $navigation = 'streams::navigation.data';
+
 }

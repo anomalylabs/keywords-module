@@ -2,7 +2,12 @@
     "name": "anomaly/keywords-module",
     "type": "streams-addon",
     "description": "System wide keywords.",
-    "keywords": ["streams-addon", "keywords", "pyrocms", "laravel"],
+    "keywords": [
+        "streams-addon",
+        "keywords",
+        "pyrocms",
+        "laravel"
+    ],
     "homepage": "http://anomaly.is/",
     "license": "MIT",
     "authors": [
